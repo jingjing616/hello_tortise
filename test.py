@@ -14,3 +14,8 @@ for item in torch.optim.__dict__:
     print(item)
 print("!!!!!!!!!!!!")
 print(dir(torch.optim))
+
+"""
+从本地仓库推送脚本到
+qq_branch分支
+"""
