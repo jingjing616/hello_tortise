@@ -15,6 +15,8 @@ for item in torch.optim.__dict__:
 print("!!!!!!!!!!!!")
 print(dir(torch.optim))
 
+import time
+print(time.__dir__)
 """
 从本地仓库推送脚本到
 qq_branch分支
